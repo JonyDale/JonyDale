@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Привет!+Я+Tima+👋;Backend+Python+Developer;Пишу+крутой+говно+код;Учусь+и+стараюсь+каждый+день!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Привет!+Я+Jony+👋;Backend+Python+Developer;Пишу+крутой+говно+код;Стараюсь+часто+учится!">
 </div>
 
 ---
