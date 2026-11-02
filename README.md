@@ -1,1 +1,1 @@
-prog is not just work
+prog it 
